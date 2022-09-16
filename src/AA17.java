@@ -82,7 +82,8 @@ interface Resto {
 
 /*
  * 
- * AA17
+ * 
+AA17
 Generar un programa que funcione como un juego de adivinanzas, donde el usuario
 tenga que adivinar un numero entre 1 y 1.000.000
 Donde si adivina le damos un mensaje de "Adivinaste, campeon" y sino adivino que siga iterando hasta adivinar
